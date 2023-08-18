@@ -35,7 +35,7 @@ async function convertDIVToImage() {
   // Displaying no. of images on addition
   if (outputImages.length >= 1) {
     document.querySelector('#output-header').textContent =
-      'Output ' + '( ' + outputImages.length + ' )';
+      '输出' + '( ' + outputImages.length + ' )';
   }
 }
 
@@ -56,7 +56,7 @@ export async function generateImages() {
     // For multiple pages
     if (paperContentEl.innerHTML.includes('<img')) {
       alert(
-        "You're trying to generate more than one page, Images and some formatting may not work correctly with multiple images" // eslint-disable-line max-len
+        "您正在尝试生成多个页面，图像和某些格式可能无法正确工作" // eslint-disable-line max-len
       );
     }
     const initialPaperContent = paperContentEl.innerHTML;
@@ -102,7 +102,7 @@ export const deleteAll = () => {
   outputImages.splice(0, outputImages.length);
   renderOutput(outputImages);
   document.querySelector('#output-header').textContent =
-    'Output' + (outputImages.length ? ' ( ' + outputImages.length + ' )' : '');
+    '输出' + (outputImages.length ? ' ( ' + outputImages.length + ' )' : '');
 };
 
 const arrayMove = (arr, oldIndex, newIndex) => {

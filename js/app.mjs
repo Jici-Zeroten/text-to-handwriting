@@ -49,7 +49,7 @@ const EVENT_MAP = {
     on: 'change',
     action: (e) => {
       if (e.target.value > 30) {
-        alert('Font-size is too big try upto 30');
+        alert('字体太大，请尝试一个小于三十的数字');
       } else {
         setTextareaStyle('fontSize', e.target.value + 'pt');
         e.preventDefault();
@@ -60,7 +60,7 @@ const EVENT_MAP = {
     on: 'change',
     action: (e) => {
       if (e.target.value > 40) {
-        alert('Letter Spacing is too big try a number upto 40');
+        alert('字母间距太大，请尝试一个小于四十的数字');
       } else {
         setTextareaStyle('letterSpacing', e.target.value + 'px');
         e.preventDefault();
@@ -71,7 +71,7 @@ const EVENT_MAP = {
     on: 'change',
     action: (e) => {
       if (e.target.value > 100) {
-        alert('Word Spacing is too big try a number upto hundred');
+        alert('单词间距太大，请尝试一个小于一百的数字');
       } else {
         setTextareaStyle('wordSpacing', e.target.value + 'px');
         e.preventDefault();

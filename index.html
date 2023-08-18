@@ -170,7 +170,7 @@
                   style="font-size: 0.9rem; margin-top: 5px;"
                   class="draw-button"
                 >
-                  Draw <small>(Beta)</small>
+                  画图<small>(添加画迹)</small>
                 </button>
               </div>
             </div>
@@ -191,7 +191,7 @@
                 <div class="category-grid">
                   <div>
                     <label class="block" for="handwriting-font"
-                      >Handwriting Font</label
+                      >手写字体</label
                     >
                     <select id="handwriting-font">
                       <option
@@ -325,7 +325,7 @@
                     <label for="paper-margin-toggle"
                       >纸张边界:
                       <span aria-label="paper margin status" class="status"
-                        >开</span
+                        >on</span
                       >
                     </label>
                     <label class="switch-toggle outer">
@@ -344,7 +344,7 @@
                     <label for="paper-line-toggle"
                       >纸线:
                       <span aria-label="paper line status" class="status"
-                        >开</span
+                        >on</span
                       >
                     </label>
                     <label class="switch-toggle outer">
@@ -387,7 +387,7 @@
                   data-testid="generate-image-button"
                   class="button generate-image-button"
                 >
-                  生成图片
+                  生成图像
                 </button>
               </div>
             </div>
@@ -397,9 +397,9 @@
 
       <!-- OUTPUT -->
       <section>
-        <h2 id="output-header">Output</h2>
+        <h2 id="output-header">输出</h2>
         <div id="output" class="output" style="text-align: center;">
-          Click "Generate Image" Button to generate new image.
+          点击“生成图像”按钮生成新图像
         </div>
         <div style="text-align: center; padding: 30px;">
           <button class="imp-button" id="download-as-pdf-button">
@@ -420,7 +420,7 @@
         <canvas
           id="diagram-canvas"
           style="background-color: #fff;"
-          height="300px"
+          height="600px"
           width="600px"
         ></canvas>
         <div class="flex-1 buttons-container padding-around">
@@ -428,13 +428,13 @@
             id="add-to-paper-button"
             style="margin-top: 5px; margin-bottom: 5px;"
           >
-            Add to Paper
+            添加画迹到纸张
           </button>
           <button
             id="draw-download-button"
             style="margin-top: 5px; margin-bottom: 5px;"
           >
-            Download Image
+            下载图片
           </button>
           <br /><br />
           <input
@@ -443,14 +443,14 @@
             accept="image/x-png,image/jpeg"
             hidden="hidden"
           />
-          <br /><br /><button id="add-new-image-button">Add bg image</button>
+          <br /><br /><button id="add-new-image-button">添加背景图</button>
           <br /><br />
           <button
             id="clear-draw-canvas"
             class="blue-button"
             style="background-color: #f30; color: #fff;"
           >
-            Clear Canvas
+            清空画布
           </button>
         </div>
       </div>
