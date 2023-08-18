@@ -1,10 +1,10 @@
-#### 功能介绍
+### 功能介绍
 
 Text to Handwriting可将普通文本转换为手写文本，包括中文字体。支持自定义字体大小、墨水颜色、页面大小、字体间距、纸张背景等属性。除此之外，还能上传自己的字体。此项目是基于[原项目](https://github.com/saurabhdaware/text-to-handwriting)的二开，增加更多选项并做了汉化
 
 
 
-#### 项目截图
+### 项目截图
 
 ![](README/image-20230818195746245.png)
 
@@ -12,7 +12,7 @@ Text to Handwriting可将普通文本转换为手写文本，包括中文字体�
 
 
 
-#### 项目配置
+### 项目配置
 
 ```
 git clone https://github.com/Jici-Zeroten/text-to-handwriting.git
@@ -23,7 +23,7 @@ npm run dev
 
 
 
-#### 其他说明
+### 其他说明
 
 - 如果您想要使用自己的手写字体，可以使用类似如下的网址，将自己的手写体转为字体
 
