@@ -145,7 +145,7 @@ function setRemoveImageListeners() {
         // Displaying no. of images on deletion
         if (outputImages.length >= 0) {
           document.querySelector('#output-header').textContent =
-            'Output' +
+            '输出' +
             (outputImages.length ? ' ( ' + outputImages.length + ' )' : '');
         }
         renderOutput(outputImages);
