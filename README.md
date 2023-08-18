@@ -12,3 +12,10 @@ Text to Handwriting可将普通文本转换为手写文本，包括中文字体�
 
 #### 项目配置
 
+```
+git clone https://github.com/:your-github-username/text-to-handwriting
+cd text-to-handwriting
+npm install
+npm run dev
+```
+
