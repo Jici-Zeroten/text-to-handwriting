@@ -33,7 +33,7 @@ https://www.calligraphr.com/en/
 
 
 
-- 下面是一些字体网站，可以下载字体(Tips：在使用字体时，请留意版本。请勿侵权使用，侵权所导致的法律问题与本项目及相关人员无关)
+- 下面是一些字体网站，可以下载字体(Tips：在使用字体时，请留意版权。请勿侵权使用，侵权所导致的法律问题与本项目及相关人员无关)
 
 ```
 https://www.hellorf.com/font?utm_source=zcool&utm_medium=index&utm_campaign=navigation&utm_content=font
