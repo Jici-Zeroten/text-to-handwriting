@@ -33,12 +33,13 @@ https://www.calligraphr.com/en/
 
 
 
-- 下面是一些字体网站，可以下载字体(Tips：在使用字体时，请留意版权。请勿侵权使用，侵权所导致的法律问题与本项目及相关人员无关)
+- 下面是一些字体网站，可以下载字体【Tips：在使用字体时，请留意版权。请勿侵权使用(在实际商用时，建议联系版权方/作者再次核实)，侵权所导致的法律问题与本项目及相关人员无关】
 
 ```
 https://www.hellorf.com/font?utm_source=zcool&utm_medium=index&utm_campaign=navigation&utm_content=font
 https://wordshub.github.io/free-font/
 https://github.com/wordshub/free-font
 https://fonts.google.com/
+https://51font.17font.com/font/---1-%E6%89%8B%E5%86%99
 ```
 
