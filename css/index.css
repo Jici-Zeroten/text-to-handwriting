@@ -34,9 +34,102 @@ body.dark {
   --delete-button-borders: #e76f7b;
   --font-color-delete: #e76f7b;
 }
+
+
 @font-face {
   font-family: 'Hindi_Font';
   src: url(../fonts/Hindi_Type.ttf);
+}
+
+@font-face {
+  font-family: 'AntonyLark-QEVickyCaulfield';
+  src: url(../fonts/AntonyLark-QEVickyCaulfield.ttf);
+}
+
+@font-face {
+  font-family: 'BeverlySmith-QEBEV';
+  src: url(../fonts/BeverlySmith-QEBEV.ttf);
+}
+
+@font-face {
+  font-family: 'DS-Font-QEDSFont';
+  src: url(../fonts/DS-Font-QEDSFont.ttf);
+}
+
+
+@font-face {
+  font-family: 'KevinKnowles-QEKevinKnowles';
+  src: url(../fonts/KevinKnowles-QEKevinKnowles.ttf);
+}
+
+@font-face {
+  font-family: 'qiando手写楷体';
+  src: url(../fonts/qiando手写楷体.ttf);
+}
+
+@font-face {
+  font-family: '寒蝉手拙体';
+  src: url(../fonts/寒蝉手拙体.ttf);
+}
+
+@font-face {
+  font-family: '手写杂书体851';
+  src: url(../fonts/手写杂书体851.ttf);
+}
+
+@font-face {
+  font-family: '新叶念体';
+  src: url(../fonts/新叶念体.otf);
+}
+
+@font-face {
+  font-family: '杨任东竹石体-Bold';
+  src: url(../fonts/杨任东竹石体-Bold.ttf);
+}
+
+@font-face {
+  font-family: '杨任东竹石体-Extralight';
+  src: url(../fonts/杨任东竹石体-Extralight.ttf);
+}
+
+@font-face {
+  font-family: '杨任东竹石体-Heavy';
+  src: url(../fonts/杨任东竹石体-Heavy.ttf);
+}
+
+@font-face {
+  font-family: '杨任东竹石体-Light';
+  src: url(../fonts/杨任东竹石体-Light.ttf);
+}
+
+@font-face {
+  font-family: '杨任东竹石体-Medium';
+  src: url(../fonts/杨任东竹石体-Medium.ttf);
+}
+
+@font-face {
+  font-family: '杨任东竹石体-Regular';
+  src: url(../fonts/杨任东竹石体-Regular.ttf);
+}
+
+@font-face {
+  font-family: '杨任东竹石体-Semibold';
+  src: url(../fonts/杨任东竹石体-Semibold.ttf);
+}
+
+@font-face {
+  font-family: '沐瑶随心手写体';
+  src: url(../fonts/沐瑶随心手写体.ttf);
+}
+
+@font-face {
+  font-family: '清松手写体1';
+  src: url(../fonts/清松手写体1.ttf);
+}
+
+@font-face {
+  font-family: '美人的字-日文';
+  src: url(../fonts/美人的字-日文.ttf);
 }
 
 /* Default CSS Changes */
