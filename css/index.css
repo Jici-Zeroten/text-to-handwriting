@@ -132,6 +132,51 @@ body.dark {
   src: url(../fonts/美人的字-日文.ttf);
 }
 
+@font-face {
+  font-family: '鸿雷行书简体';
+  src: url(../fonts/鸿雷行书简体.otf);
+}
+
+@font-face {
+  font-family: '理衣手写体';
+  src: url(../fonts/理衣手写体.otf);
+}
+
+@font-face {
+  font-family: '小可奶酪体商用免费@庆科字体';
+  src: url(../fonts/小可奶酪体商用免费@庆科字体.ttf);
+}
+
+@font-face {
+  font-family: '千图笔锋手写体';
+  src: url(../fonts/千图笔锋手写体.ttf);
+}
+
+@font-face {
+  font-family: 'mitimasu';
+  src: url(../fonts/mitimasu.ttf);
+}
+
+@font-face {
+  font-family: 'Christmas-Rose-TTF-Personal';
+  src: url(../fonts/Christmas-Rose-TTF-Personal.ttf);
+}
+
+@font-face {
+  font-family: 'Christoper-Brothers';
+  src: url(../fonts/Christoper-Brothers.otf);
+}
+
+@font-face {
+  font-family: 'ChenYuluoyan-Thin';
+  src: url(../fonts/ChenYuluoyan-Thin.ttf);
+}
+
+@font-face {
+  font-family: 'Brighton-Signature';
+  src: url(../fonts/Brighton-Signature.otf);
+}
+
 /* Default CSS Changes */
 * {
   box-sizing: border-box;
