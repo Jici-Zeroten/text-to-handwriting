@@ -40,4 +40,6 @@ https://www.dafont.com/new.php
 https://www.fontspace.com/search?q=handwriting
 https://www.miao3.cn/
 https://www.mfonts.cn/
+https://github.com/jaywcjlove/free-font
+https://font.icu/
 ```
